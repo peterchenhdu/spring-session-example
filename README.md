@@ -1,2 +1,2 @@
 # spring-session-example
-spring session example， using spring session replace the HttpSession implementation.
+spring session example， use Spring Session to replace the HttpSession with a Redis store..
